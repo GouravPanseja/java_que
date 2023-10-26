@@ -1,6 +1,6 @@
 //que. Count the number of digits in a number
 
-package Java_que.loop_que;
+package Numbers;
 import java.util.*;
 
 public class _3 {

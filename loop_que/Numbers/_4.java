@@ -1,4 +1,4 @@
-package Java_que.loop_que;
+package Numbers;
 import java.util.*;
 public class _4{
     public static void main(String[] args) {
